@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import Projects from './pages/projects'
+import Projects from '../pages/projects'
 
 export default function Home() {
   return (

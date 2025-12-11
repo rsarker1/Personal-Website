@@ -1,13 +1,12 @@
 
 
 
-export function Projects() {
+const Projects = () => {
     return (
         <div>
-            Another
+            test
         </div>
     )
 }
-
 
 export default Projects
