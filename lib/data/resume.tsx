@@ -1,0 +1,57 @@
+export const ResumeData = {
+  education: {
+    school: 'Stony Brook University',
+    degree: 'B.S. in Computer Science',
+    start: '2020',
+    end: '2024',
+  },
+  work_experience: {
+    role: 'Software Development Intern',
+    company: 'New York City Government Landmarks Preservation Commission',
+    description: 'During my internship at the NYC LPC, I automated database corrections, improved SQL query performance, and reduced the internal application latency.',
+  },
+  projects: [
+    {
+      name: 'US Congressional Incumbency Analysis',
+      description: '',
+      technologies: 'JavaScript, React, MongoDB, Java Spring, Python',
+    },
+    {
+      name: 'ReReaddit',
+      description: '',
+      technologies: 'React, TypeScript, Next.js, Node.js, PostgreSQL, Tailwind CSS, AWS',
+    },
+    {
+      name: 'Clip Assistant',
+      description: '',
+      technologies: 'Qt, QML, Python, PyTest, Git, CI/CD',
+    },
+    {
+      name: 'Payment Reminder Bot',
+      description: '',
+      technologies: 'JavaScript, TypeScript, Node.js, SQLite, Jest, Docker',
+    },
+  ],
+  skills: [
+    'Javascript',
+    'Typescript',
+    'Python',
+    'Java',
+    'C++',
+    'Next.js',
+    'React',
+    'HTML/CSS',
+    'Tailwind CSS',
+    'Node.js',
+    'Express',
+    'Java Spring',
+    'AWS',
+    'Docker',
+    'PostgreSQL',
+    'MongoDB',
+    'Git',
+    'Linux',
+    'Jest',
+    'PyTest',
+  ],
+}

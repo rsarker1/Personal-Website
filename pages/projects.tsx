@@ -1,5 +1,4 @@
-
-
+import { ResumeData } from '@/lib/data/resume'
 
 const Projects = () => {
     return (
